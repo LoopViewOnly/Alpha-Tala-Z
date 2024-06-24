@@ -1,0 +1,54 @@
+h1 {
+  color:rgb(236, 105, 196);
+}
+#alpha {
+  background-color: rgb(217, 92, 215);
+}
+.jr {
+  background-color: rgb(80, 218, 204);
+}
+
+.adv {
+  background-color: rgb(212, 77, 104);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: pink;
+}
+
+.navbar {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #60c8e8;
+}
+.pro {
+
+background-color: rgb(232, 135, 66);
+}
+  
+.per {
+  background-color: rgb(102, 129, 56);
+}
+
+.exp {
+  background-color: chartreuse;
+}
+
+
+.met {
+  background-color: cornflowerblue;
+}
